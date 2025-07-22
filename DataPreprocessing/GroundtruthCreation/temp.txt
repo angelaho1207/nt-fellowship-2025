@@ -1,5 +1,0 @@
-DataPreprocessing/GroundtruthCreation/temp.txt
-DataPreprocessing/DataAugmentationAndSelection/temp.txt
-DataPreprocessing/PatchExtraction/temp.txt
-LightweightCNNs/temp.txt
-Histopathology/ImageLabeling/temp.txt
