@@ -3,6 +3,6 @@ My research aims to evaluate the effectiveness of lightweight CNNs (< 1 million 
 My research report and all references can be found at: https://docs.google.com/document/d/1wujuFWx5vZ-ntftOSiXqwcFKUP66f3pdbt_7B1pa8CM/edit?usp=sharing
 
 # Contents
-data_preprocessing: Groundtruth creation, geometric augmentation, data selection
-lightweight_CNNs: Patch extraction, CT-ZS model, CT-L model, MRI-ZS model, MRI-L model
+data_preprocessing: Groundtruth creation, geometric augmentation, data selection //
+lightweight_CNNs: Patch extraction, CT-ZS model, CT-L model, MRI-ZS model, MRI-L model //
 histopathology: Image generation, image enhancement, image labeling
